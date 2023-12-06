@@ -5,6 +5,7 @@ from django.core.exceptions import ImproperlyConfigured
 from django.db.models import Q, Prefetch, Manager
 import six
 from functools import reduce
+from rest_framework import __version__ as drf_version
 from rest_framework import serializers
 from rest_framework.exceptions import ValidationError
 from rest_framework.filters import BaseFilterBackend, OrderingFilter
