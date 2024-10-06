@@ -5,6 +5,8 @@
 
 **Dynamic API extensions for Django REST Framework**
 
+This repo was forked to fix compatibility issues with geonode and django 4.2.x. Geonode 4.3.1 now is fully compatible, so, i have to archive this repo and delete it on Jan 2025.
+
 See http://dynamic-rest.readthedocs.org for full documentation.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
